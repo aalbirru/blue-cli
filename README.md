@@ -36,7 +36,7 @@ bash setup.sh
 ```
 Menambahkan Environment Variables:
 1. Buka https://rentry.co/blue-cli & copy
-2. Bikin file .env di dalam folder aal-cli dengan isi text yang sudah di-copy tadi di dengan cara ketik
+2. Bikin file .env di dalam folder blue-cli dengan isi text yang sudah di-copy tadi di dengan cara ketik
 ```
 nano .env
 ```
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 
 Menambahkan Environment Variables:
 1. Buka https://rentry.co/blue-cli & copy
-2. Bikin file .env di dalam folder me-cli-sunset dengan isi text yang sudah di-copy tadi di dengan cara ketik
+2. Bikin file .env di dalam folder blue-cli dengan isi text yang sudah di-copy tadi di dengan cara ketik
 ```
 nano .env
 ```
