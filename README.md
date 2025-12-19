@@ -1,15 +1,10 @@
-# MYnyak Engsel Sunset X Heavenly Demons
+# MYnyak Engsel Sunset X aal-cli
 
 ![banner](bnr.png)
 
 CLI client for a certain Indonesian mobile internet service provider.
 
-# How to get environtment Variables
-Go to [OUR TELEGRAM CHANNEL](https://t.me/indonesian_door_assosiation)
-Copy the provided environment variables and paste it into a text file named `.env` in the same directory as `main.py`.
-You can use nano or any text editor to create the file.
-
-# cara menggunakan dengan TERMUX
+# cara menggunakan dengan TMK
 
 catatan untuk yang baru pertama kali pakai termux install ini dulu
 
@@ -29,19 +24,19 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/backup-heavenly-demons/heavenly-demons-cli 
+git clone https://github.com/aalbirru/blue-cli
 ```
 4. Open the folder
 ```
-cd heavenly-demons-cli
+cd blue-cli
 ```
 5. Setup
 ```
 bash setup.sh
 ```
 Menambahkan Environment Variables:
-1. Buka https://rentry.co/me-sunset & copy
-2. Bikin file .env di dalam folder me-cli-sunset dengan isi text yang sudah di-copy tadi di dengan cara ketik
+1. Buka https://rentry.co/blue-cli & copy
+2. Bikin file .env di dalam folder aal-cli dengan isi text yang sudah di-copy tadi di dengan cara ketik
 ```
 nano .env
 ```
@@ -72,17 +67,17 @@ apt install python-pillow
 ```
 ```
 
-git clone https://github.com/backup-heavenly-demons/heavenly-demons-cli
+git clone https://github.com/aalbirru/blue-cli
 ```
 ```
-cd heavenly-demons-cli
+cd blue-cli
 ```
 ```
 pip install -r requirements.txt
 ```
 
 Menambahkan Environment Variables:
-1. Buka https://rentry.co/me-sunset & copy
+1. Buka https://rentry.co/blue-cli & copy
 2. Bikin file .env di dalam folder me-cli-sunset dengan isi text yang sudah di-copy tadi di dengan cara ketik
 ```
 nano .env
