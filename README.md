@@ -1,4 +1,4 @@
-# MYnyak Engsel Sunset X aal-cli
+# MYnyak Engsel Sunset X blue-cli
 
 ![banner](bnr.png)
 
